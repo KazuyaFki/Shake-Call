@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  hotlineApp
+
+  Created by Kazuya Fukui on 2020/05/11.
+  Copyright © 2020 Kazuya Fukui. All rights reserved.
+*/
+
+"Add contact" = "連絡先を追加";
+
+"Please enter your name and phone number." = "名前と電話番号を入力してください。";
+
+"Name" = "名前";
+
+"Phone number (without hyphen)" = "電話番号　(ハイフンなし)";

@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  hotlineApp
+
+  Created by Kazuya Fukui on 2020/05/11.
+  Copyright © 2020 Kazuya Fukui. All rights reserved.
+*/
+"Add contact" = "Add contact";
+
+"Please enter your name and phone number." = "Please enter your name and phone number.";
+
+"Name" = "Name";
+
+"Phone number (without hyphen)" = "Phone number (without hyphen)";

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>118364159407-c58decnds57mdgchac16mf1ur5el0s6g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.118364159407-c58decnds57mdgchac16mf1ur5el0s6g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfIv0pVr5RMgidRm5nCkopCmRAqhjU-Ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118364159407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kazu8.hotlineApp</string>
+	<key>PROJECT_ID</key>
+	<string>hotlineapp-97865</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hotlineapp-97865.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118364159407:ios:42f4a152fd2f4e96b7835a</string>
+	<key>DATABASE_URL</key>
+	<string>https://hotlineapp-97865.firebaseio.com</string>
+</dict>
+</plist>

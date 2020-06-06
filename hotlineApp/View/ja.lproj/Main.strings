@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "電話番号"; ObjectID = "5hB-RX-RdN"; */
+"5hB-RX-RdN.text" = "電話番号";
+
+/* Class = "UILabel"; text = "名前"; ObjectID = "C0j-n5-1Cm"; */
+"C0j-n5-1Cm.text" = "名前";
+
+/* Class = "UILabel"; text = "どなたに発信？"; ObjectID = "L0V-he-T3C"; */
+"L0V-he-T3C.text" = "どなたに発信？";
